@@ -1,3 +1,3 @@
 # senior-project2
 
-This repository is a contains only my contributions to a two-person senior project.
+This repository contains my contributions to a two-person senior project.
